@@ -1,5 +1,5 @@
 # The Modified Brent's Method
-> Implementation of The Modified Brent's Method by Dr.Min Gu in MatLab.
+Implementation of The Modified Brent's Method by Dr.Min Gu in MatLab.
 
 ## Contribute
 Please clone the Github Repository: 
