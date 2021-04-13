@@ -1,5 +1,5 @@
 # The Modified Brent's Method
-Implementation of The Modified Brent's Method by Dr.Min Gu in MatLab.
+Implementation of ["A Modified Brent's Method for Finding Zeroes of Functions"](https://github.com/moonwonlee/modified-brents-method/blob/master/Wilkins-Gu2013_Article_AModifiedBrentSMethodForFindin.pdf) by Gautam Wilkins and Dr.Min Gu in MatLab.
 
 ## Contribute
 Please clone the Github Repository: 
